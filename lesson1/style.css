@@ -1,0 +1,58 @@
+.container{
+height: 400px;
+display: grid;
+grid-template-areas: 
+'i2 i3 i4'
+'i5 i1 i1'
+'i6 i1 i1'
+'i7 i8 i9'
+}
+.i1 {
+    grid-area: i1;
+    background: red;
+}
+.i2 {
+    grid-area: i2;
+    background: green;
+}
+.i3 {
+    grid-area: i3;
+    background: green;
+}
+.i4 {
+    grid-area: i4;
+    background: green;
+}
+.i5 {
+    grid-area: i5;
+    background: green;
+}
+.i6 {
+    grid-area: i6;
+    background: green;
+}
+.i7 {
+    grid-area: i7;
+    background: green;
+}
+.i8 {
+    grid-area: i8;
+    background: green;
+}
+.i9 {
+    grid-area: i9;
+    background: green;
+}
+.item {
+    border: 3px solid white;
+    font-size: 50px;
+    color: blue;
+}
+.box1{
+left: 33px;
+top: 29px;
+width: 120px;
+height: 120px;
+position: absolute;
+background: #2D9ECE;
+}

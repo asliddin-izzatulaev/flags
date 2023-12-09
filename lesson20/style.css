@@ -1,0 +1,34 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+li {
+ list-style: none;
+}
+
+a {
+text-decoration: none;
+}
+
+body {
+font-family: "Inter", sans-serif;   
+} 
+
+header {
+  max-width: 1260px;
+  margin: 0 auto; 
+  display: flex;
+  gap:88px 
+}
+
+.nav > .nav-list{
+display: flex;
+align-items: conter;
+gap:88px
+}
+ 
+
+

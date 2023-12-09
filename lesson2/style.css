@@ -1,0 +1,49 @@
+.box1{
+top: 29px;
+left: 33px;
+width: 120px;
+height: 120px;
+position: absolute;
+background: #2D9ECE;
+}
+.box2{
+ top: 42px;
+ left: 61px;
+ width: 120px;
+ height: 120px;
+ position: absolute;
+ background: #CE2D4A;
+}
+.box3{
+ top: 220px;
+ left: 61px;
+ width: 120px;
+ height: 120px;
+ position: absolute;
+ background: #2D9ECE;
+}
+.box4{
+ top:  186px;
+ left: 121px;
+ width: 120px;
+ height: 120px;
+ position: absolute;
+ background: #CE2D4A;
+}
+.box5{
+ top:  385px;
+ left: 61px;
+ width: 120px;
+ height: 120px;
+ position: absolute;
+ background: #2D9ECE;
+}
+.box6{
+ top:  411px;
+ left: 26px;
+ width: 120px;
+ height: 120px;
+ position: absolute;
+ background: #CE2D4A;
+}
+                                                                                     

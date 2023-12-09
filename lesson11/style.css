@@ -1,0 +1,46 @@
+.car{
+position:absolute;
+transform: scaleX(-1);
+z-index: -1;
+animation:container1 7s linear infinite ;
+}
+.bol1{
+position:absolute;
+ top:257px;
+ left:53px;
+animation:container2 7s linear infinite ;   
+}
+.bol2{
+position:absolute;
+ top:257px;
+ left:323px; 
+ animation:container3 7s linear infinite ; 
+}
+
+@keyframes container1 {
+    0% {
+    left: 0;
+    }
+    100% {
+        left: 1700px
+    }
+}
+@keyframes container2 {
+    0% {
+    left: 45px;
+    transform: rotate(-5000deg);
+    }
+    100% {
+        left: 1745px
+    }
+}
+@keyframes container3 {
+    0% {
+    left: 315px;
+    transform: rotate(-5000deg);
+    }
+    100% {
+        left: 2015px
+    }
+}
+

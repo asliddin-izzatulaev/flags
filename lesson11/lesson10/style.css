@@ -1,0 +1,23 @@
+.box1{
+position: absolute;
+width: 100px;
+height: 100px;
+background: red;
+animation: container 2s infinite;
+}
+.box2{
+position: absolute;
+top:150px ;
+width: 100px;
+height: 100px;
+background: yellow;
+animation: container 2s infinite;
+}
+.box3{
+position: absolute;
+top: 300px;
+width: 100px;
+height: 100px;
+background:blue;
+animation: container 2s infinite;
+}
